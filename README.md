@@ -18,6 +18,12 @@ The dataset contains information about Netflix titles including:
 3. What are the most common genres?
 4. Which countries produce the most Netflix content?
 
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Data Visualization
+- GitHub for documentation
+
 ## Analysis Process
 
 The dataset was analyzed using Microsoft Excel. The following steps were performed:
@@ -27,6 +33,7 @@ The dataset was analyzed using Microsoft Excel. The following steps were perform
 3. Creating Pivot Tables to summarize the data.
 4. Building visualizations such as charts to identify trends and patterns.
 
+## Visualizations
 ## Distribution of Movies vs TV Shows
 
 ![Movie vs TV Show](movie_vs_tvshow.png)
