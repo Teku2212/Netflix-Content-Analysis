@@ -18,6 +18,15 @@ The dataset contains information about Netflix titles including:
 3. What are the most common genres?
 4. Which countries produce the most Netflix content?
 
+## Analysis Process
+
+The dataset was analyzed using Microsoft Excel. The following steps were performed:
+
+1. Importing the dataset into Excel.
+2. Cleaning the data and checking for missing values.
+3. Creating Pivot Tables to summarize the data.
+4. Building visualizations such as charts to identify trends and patterns.
+
 ## Key Insights
 
 **Movies dominate the platform**  
@@ -31,3 +40,7 @@ Documentary content forms a significant portion of the dataset.
 
 **The United States produces the most content**  
 The US leads the dataset, followed by India and the United Kingdom.
+
+## Conclusion
+
+The analysis shows that Netflix has rapidly expanded its content catalog in recent years, with movies forming the majority of available titles. The platform also features content from multiple countries, highlighting its global reach.
