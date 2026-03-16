@@ -27,6 +27,18 @@ The dataset was analyzed using Microsoft Excel. The following steps were perform
 3. Creating Pivot Tables to summarize the data.
 4. Building visualizations such as charts to identify trends and patterns.
 
+## Distribution of Movies vs TV Shows
+
+![Movie vs TV Show](movie_vs_tvshow.png)
+
+## Content Growth Over Time
+
+![Content Growth](content_growth.png)
+
+## Top Genres
+
+![Top Genres](top_genres.png)
+
 ## Key Insights
 
 **Movies dominate the platform**  
